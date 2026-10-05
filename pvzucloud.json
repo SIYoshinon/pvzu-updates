@@ -1,0 +1,15 @@
+{
+  "build": 0,
+  "version": "1.2.1.1",
+  "message": [
+    "修复已知问题，优化游戏体验。"
+   ],
+  "download": {
+    "baidu": "https://pan.baidu.com/s/1Rqy1hp4TAHQPWrspxJXdiQ?pwd=jcia",
+    "quark": "https://pan.quark.cn/s/7decd892a990",
+    "google": {
+        "windows": "https://mega.nz/file/z9ZjSAYZ#r4BlTV-p0cldhL85WgGt1QP9cFKIH_kUoQSGYfQuTaM",
+        "android": "https://mega.nz/file/u1AkHJrb#V0B6j65wudXW6uKv4oVjYEhL16Xoje6ShUzTeLGDx4k"
+    }
+  }
+}
