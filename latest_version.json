@@ -1,14 +1,14 @@
 {
   "build": 0,
-  "version": "1.3.0",
+  "version": "1.3.0.1",
   "message": [
    ],
   "download": {
     "baidu": "https://pan.baidu.com/s/1Rqy1hp4TAHQPWrspxJXdiQ?pwd=jcia",
-    "quark": "https://pan.quark.cn/s/7decd892a990",
+    "quark": "https://pan.quark.cn/s/a590af525810",
     "google": {
-        "windows": "https://mega.nz/file/z9ZjSAYZ#r4BlTV-p0cldhL85WgGt1QP9cFKIH_kUoQSGYfQuTaM",
-        "android": "https://mega.nz/file/u1AkHJrb#V0B6j65wudXW6uKv4oVjYEhL16Xoje6ShUzTeLGDx4k"
+        "windows": "https://drive.google.com/file/d/1sWTe-Wr1q3oN-H4SotkBGgc_JYnBa8Xs/view?usp=drive_link",
+        "android": "https://drive.google.com/file/d/1uXYIqd-BHSOAWaOyi290gAukm7KS-z7J/view?usp=drive_link"
     }
   }
 }
